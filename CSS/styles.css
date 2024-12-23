@@ -47,7 +47,7 @@ body {
 .bg-box {
 	max-width: 600px;
 	width: 100%;
-	height: 782px;
+	height: 100vh;
 	background-image: url(../img/articles-bg.png);
 	background-position: center center;
 	background-repeat: no-repeat;
